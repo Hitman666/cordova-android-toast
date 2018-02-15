@@ -1,0 +1,23 @@
+{
+    "name": "cordova-android-toast",
+    "version": "1.0.0",
+    "description": "Android Toast Plugin",
+    "cordova": {
+        "id": "cordova-android-toast",
+        "platforms": [
+            "android"
+        ]
+    },
+    "keywords": [
+        "android",
+        "toast",
+        "ecosystem:cordova",
+        "cordova-android"
+    ],
+    "engines": [{
+        "name": "cordova",
+        "version": ">=3.0.0"
+    }],
+    "author": "Nikola Brežnjak<nikola.breznjak@gmail.com> (http://www.nikola-breznjak.com/blog)",
+    "license": "Apache 2.0"
+}
