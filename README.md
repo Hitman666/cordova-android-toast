@@ -218,4 +218,4 @@ You should see something like this once the app runs on your device:
 ## Conclusion
 I hope this post gave you enough information so that you'll be dangerous enough to go and fiddle with the Android Cordova plugin building yourself 💪
 
-If you have any questions, feel free to ask in the reach out.
+If you have any questions, feel free to reach out.
